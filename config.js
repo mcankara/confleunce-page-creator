@@ -22,7 +22,7 @@ configObj = {
         "name": "<string>",
         "type": "page",
         "space": {
-          "key": "LAB"
+          "key": "YOUR_SPACE_KEY"
         },
         "status": "current",
         "body": {
@@ -35,7 +35,7 @@ configObj = {
         "name": "<string>",
         "type": "page",
         "space": {
-          "key": "LAB"
+          "key": "YOUR_SPACE_KEY"
         },
         "status": "current",
         "ancestors": [{
